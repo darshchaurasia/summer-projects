@@ -1,0 +1,40 @@
+#text_1 {
+    padding: 10px;
+    margin-top: 10px;
+    background: rgb(248, 248, 248);
+    border: 1px solid #eee;
+    font-size: 12px;
+    border-radius: 2px;
+    width: 280px;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+#text_1::placeholder {
+    color: #bbb;
+}
+#submit {
+    padding: 7px 10px;
+    margin-top: 10px;
+    background: #3ba1df;
+    color: #fff;
+    
+    font-size: 14px;
+    width: 280px;
+    border: 1px solid #3ba1df;
+}
+#text {
+    color: #ccc; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+}
+#link {
+    font-size: 12px; text-decoration: none; color: #375aa3;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+#texter {
+    font-size: 14px; text-decoration: none; color: #000;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+#link2 {
+    font-size: 14px; text-decoration: none; color: #3ba1df;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
