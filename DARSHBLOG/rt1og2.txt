@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ORIGIN OF THIS BLOG</title>
+<style>
+body {
+margin: 0px;
+}
+.pad {
+padding:25px;
+}
+.header {
+background-color: lightblue;
+background-attachment: fixed;
+color: maroon;
+height: 100px;
+font-size: 36pt;
+margin: 0px;
+}
+.header2 {
+background-color: plum;
+background-attachment: fixed;
+color: white;
+font-size: 16pt;
+text-align: center;
+height: 50px;
+margin: 0px;
+}
+.content {
+width: 60%;
+float: left;
+text-align-last: auto;
+background-color: beige;
+background-attachment: fixed;
+
+}
+.divs {
+margin: 5px;
+width: 25%;
+float: left;
+border: 4px solid lightblue;
+}
+.image {
+height:425px;
+width:800px;
+border-width: 1px;
+border-color: Black;
+}
+.top-left {
+  position: absolute;
+  top: 4px;
+  left: 16px;
+    }
+.top-right {
+  position: absolute;
+  top: 4px;
+  right: 16px;
+}
+.button{
+       
+       background-color:springgreen;
+       border: 0pt;
+}
+
+.sticky {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+.sticky + .content {
+  padding-top: 102px;
+}
+
+.place{
+ padding-left: 487.5px;
+vertical-align: middle;
+height: 100px;      
+
+}
+
+
+</style>
+<link rel="icon" type="image/png" href="dcxpress.png" sizes="32x32" />
+
+</head>
+<body>
+<div  class="header pad" >
+ 
+    <img src="dcxpress.png"   style="height: 100px;width: 100px;float:left;"/>
+    <p class="place"><B>DC-X PRESS </B></p>
+    </div>
+<div>
+<p class="header2" id="myHeader" >
+THE ORIGIN OF THIS BLOG.<BR><u>28/04/2020</u>
+</p></div>
+<div class="content pad">
+<p>
+     Monday Evening 28-04.<br/>
+     I was supposed to be playing football at the G level or chatting around on the lobby with a bunch of my so-called friends, But (the big 'BUT' ) I was at home lying on the couch in the hall with my laptop on my lap with me surfing on the internet looking for some new movies to watch!
+     Surprising! Isnt it? Obviously at this age,15 year olds are told to study and to build the foundation of thier career and update their skill-sets ! Neither  i was studying nor was i outside my flat.So was i wasting my time or doing something less productive then what i could actually have done ? 
+     Agreed playing a sport or chatting with a bunch of geeks or even studying would be a little "more" productive and efficient rather than looking for movies online at par.Also agreed that it wouldnt be the best use of my time but(the big BUT) why was I still on my couch with my pc.?
+     Mates the answer to that is our whole country was/is in Lockdown that has taken place due to the COVID-19 pandemic and it had totally eliminated my options of stepping outside my house.About studying ,It was the 16th day of attending virtual classes for JEE for 5 hrs straight from 9:00 am in the morning and then completing my homework because of a semi OCD kinda habit persistant  in me made me believe that i didnt like to keep anyone or anything waiting for the outcome.
+     we were still studying though people were majorly unemployed at the moment sitting  in their respective houses,dogs were boarding the public trains and it was a crime to go out on the street out of free will unnecessarily and the whole world was panicking and governments were busy finding the cure to the disease which could be/is a sign of an approaching apocolypse .
+     So studying wasnt even a third thought for me in the evening and therefore there i was looking for some chill.
+     I had set a Netflix movie for downloading using a torrent ;my parents had deactivated my netflix account to help me concentrate and focus on studies so there i was ,doing my  thing 
+     Suddenly a random thought entered my brain to use the torrent site to download an ebook for coding and before  getting  distracted i straight got ridin on all the coding ebooks and installed the Ebook for HTML,CSS and javaScript.
+     I was always interested in coding because it was logic and it always felt cool to see programmers brag about the complex codes behind their projects.
+     I was already familiar with the HTML code as i had done my older sisters college projects so then i directly  practiced all the codes and functions and attributes for 2 days ,On 28th i thought of coding a website as a self hired intern to test myself. Here the big question for me was to decide the theme of my website. AFter brainstorming for a few minutes i finally landed on blogging my coding journey and other activities i excelled in ,on an average scale.
+</p>
+<p>
+After hours of coding I had made a login webpage and an indexpage.I further thought of an outline for my webpage inside my mind and had immediately reached the outcome that night for my homepage  and for the readers to know the platform that i had used for coding was Visual Studio Code and i still use it and the source of my pictures was Adobe Spark.
+
+<img src="firstlook.jpg" alt="darshblogfirstlook" class="image"/>
+</div>
+<div class="divs pad">
+     <CENTER>
+<img src="QUOTE1.jpg" alt="DCXPRESS" style="width: 250px;"/>
+</CENTER>
+<p style="text-align: center;font-family:'Courier New', Courier, monospace;font-size: 20px;color:burlywood;"><b>STAY TUNED AND <br>PLEASE SHARE THIS PAGE:)</b></p>
+</div>
+<div class="divs pad" style="text-align: center;">
+     <p  style="text-align: center;font-family:'Courier New', Courier, monospace;font-size: 20px;color:burlywood;">
+<b><U>The Team</U><br/>
+Programmer and Editor:Darsh.<br/>
+Blog writer:Darsh.<br/>
+Blog Editor:ApurvaChaurasia.</b>
+</p>
+</div>
+<div class="divs pad" style="text-align: center;">
+     <p  style="text-align: center;font-family:'Courier New', Courier, monospace;font-size: 20px;color:burlywood;">
+<b><U>CONTACT US-</U><br/>
+Email- darshchaurasia@tutanota.com
+We ll reply asap and Do Comment on the blog through Mail!<br/>
+</p>
+</div>
+<div class ="top-left">
+     <a href ="homepage.html" onclick = return true ><button class="button" >BACK TO HOMEPAGE </button></a>
+    </div>
+<div class ="top-right">
+<a href ="password.html" onclick = return true ><button class="button" >LOGOUT</button></a>
+</div>
+<script>
+     window.onscroll = function() {myFunction()};
+     
+     var header2 = document.getElementById("myHeader");
+     var sticky = header2.offsetTop;
+     
+     function myFunction() {
+       if (window.pageYOffset > sticky) {
+         header2.classList.add("sticky");
+       } else {
+         header2.classList.remove("sticky");
+       }
+     }
+</script>
+        
+     </body>
+</html>
