@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>All About Art</title>
+<style type = "text/css">
+body{background-image: url('34555hd.jpg');background-attachment: fixed ; background-repeat : repeat}
+</style>
+</head>
+<body>
+<font color="metallic gold" size = 12>
+<center><u>Some of the Famous Examples of Art</u></center>
+</font>
+<br><br>
+<font size = 6>
+<u>1.Jasper Johns, Flag, 1954–55 (dated 1954)</u>
+<br><img src = "allaboutart21.jpg" height= 250 width = 200 border = 5><br><br>
+<u>2.Andy Warhol, Marilyn Diptych 1962
+<br><img src = "allaboutart22.jpg" height= 250 width = 200 border = 5><br><br>
+<u>3.Mona Lisa,Painting by Leonardo da Vinci</u>
+<br><img src = "allaboutart23.jpg" height= 250 width = 200 border = 5><br><br>
+<u>4.The Starry Night,Painting by Vincent van Gogh</u>
+<br><img src = "allaboutart24.jpg" height= 250 width = 200 border = 5><br><br>
+<u>5.The Last Supper,Mural by Leonardo da Vinci</u>
+<br><img src = "allaboutart25.jpg" height= 250 width = 200 border = 5><br><br>
+</font>
+<a href="apurvaallaboutart.html"><button>Go To Homepage</button></a>
+<a href="allaboutart3.html"><button>Go To Famous Artists</button></a>
+</body>
+</html>

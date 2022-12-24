@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>All About Art</title>
+<style type = "text/css">
+body{background-image: url('34555hd.jpg');background-attachment: fixed ; background-repeat : repeat}
+</style>
+</head>
+<body>
+<font color="metallic gold" size = 12>
+<center><u>Trending Forms of Art!</u></center> 
+</font>
+<font size = 8>
+<center><u>Some of the Popular Paintings and their Artists:</u><br><br></center>
+</font>
+<font size = 6>
+<u>Canvas Paintings</u> <br><br>
+<font size = 5>
+1.Tradition<br>
+By Arlette Zurbuchen
+</font>
+<br><img src = "Tradition-2014-Acrylic-on-Canvas-31.522-x-23.522-2500-Arlette-Zurbuchen.jpg" height= 250 width = 200 border = 5><br>
+<font size = 5>
+Playing with form, textures, and patterns, Arlette Zurbuchen paints performative pieces in acrylic on canvas. “For me, there is a deep and abiding connection between art and life – art takes place and plays a role in life, and life in art,” she says. Filling up the background with saturated patterns before rendering the subject in vibrant hues, she brings every inch of her canvas to life.<br><br>
+2.Metalic Gloss III<br>
+ By Irma Lescinskaite<br>
+<img src = "metalic.jpg" height= 250 width = 200 border =5><br>
+Lithuanian artist, Irma Lescinskaite creates dynamic abstract expressionist works inspired by her cultural background in combination with personal experiences and events. “Cultural history is reflected and based on conscious and directed interpretation, which is brought into my paintings,” says the talented artist. Through her visual imagery, she seeks to synchronize and synthesize the worldly and otherworldly realities that we all grapple with on a daily basis.<br><br>
+3.Secretos <br>
+ By Patricia Queiruga<br>
+<img src = "secretos.jpg" height= 250 width = 200 border = 5><br>
+With an ever-changing combination of paints, Patricia Queiruga builds work that is both organic and dynamic. “I believe that experimentation is the key to being an artist,” she says. Inspired by music, the artist makes energetic choices in acrylic, oil, and mixed media, translating the exciting notes into a visual practice.<br><br>
+</font>
+
+
+<font size = 6>
+<center><u>History of Art</u></center><br>
+</font>
+<font size = 5>
+The history of art is the history of any activity or product made by humans in a visual form for aesthetical or communicative purposes, expressing ideas, emotions or, in general, a worldview. Over time visual art has been classified in diverse ways, from the medieval distinction between liberal arts and mechanical arts, to the modern distinction between fine arts and applied arts, or to the many contemporary definitions, in which art is seen as a manifestation of human creativity.<br><br>
+The subsequent expansion of the list of principal arts in the 20th century reached to nine: architecture, dance, sculpture, music, painting, poetry (described broadly as a form of literature with aesthetic purpose or function, which also includes the distinct genres of theatre and narrative), film, photography, and graphic arts. In addition to the old forms of artistic expression such as fashion and gastronomy, new modes of expression are being considered as arts such as video, computer art, performance, advertising, animation, television, and videogames.<br><br> 
+</font>
+<font size = 6>
+<center><u>Prehistoric Art</u></center><br>
+</font>
+<font size = 5>
+<center><img src = "130px-Lascaux2.jpg" height= 250 width = 300 border =5></center><br> 
+In the history of art, prehistoric art is all art produced in preliterate, prehistorical cultures beginning somewhere in very late geological history, and generally continuing until that culture either develops writing or other methods of record-keeping, or makes significant contact with another culture that has, and that makes some record of major historical events. At this point ancient art begins, for the older literate cultures. The end-date for what is covered by the term thus varies greatly between different parts of the world.<br><br>
+</font>
+<font size = 6>
+<center><u>Influence of Art in India</u></center> <br>
+</font>
+<font size = 5>
+Indian Arts consists of a variety of art forms, including plastic arts (e.g., pottery sculpture), visual arts (e.g., paintings), and textile arts (e.g., woven silk). Geographically, it spans the entire Indian subcontinent, including what is now India, Pakistan, Bangladesh, and eastern Afghanistan. A strong sense of design is characteristic of Indian art and can be observed in its modern and traditional forms.<br><br>
+The origin of Indian art can be traced to pre-historic Hominid settlements in the 3rd millennium BC. On its way to modern times, Indian art has had cultural influences, as well as religious influences such as Hinduism, Buddhism, Jainism and Islam. In spite of this complex mixture of religious traditions, generally, the prevailing artistic style at any time and place has been shared by the major religious groups.<br>
+In historic art, sculpture in stone and metal, mainly religious, has survived the Indian climate better than other media and provides most of the best remains. Many of the most important ancient finds that are not in carved stone come from the surrounding, drier regions rather than India itself. Indian funeral and philosophic traditions exclude grave goods, which is the main source of ancient art in other cultures.<br><br>
+</font>
+<font size = 6>
+<center><u>Types of Art in India</u></center><br>
+<b>1.Madhubani Painting:</b><br><br>
+<img src = "download21.jpg" height= 250 width = 200 border = 5><br>
+</font>
+<font size = 5>
+Madhubani art or Mithila art) is practiced in the Mithila region of India and Nepal. Painting is done with fingers, twigs, brushes, nib-pens, and matchsticks, using natural dyes and pigments, and is characterised by eye-catching geometrical patterns. There is ritual content for particular occasions, such as birth or marriage, and festivals, such as Holi, Surya Shasti, Kali Puja, Upanayana, Durga Puja.<br><br>
+</font>
+<font size = 6>
+<b>2.Warli Painting</b><br><br>
+<img src = "download11.jpg" height= 250 width = 200 border = 5><br>
+</font>
+<font size = 5>
+Warli painting is a style of tribal art mostly created by the tribal people from the North Sahyadri Range in India. This range encompasses cities such as Dahanu, Talasari, Jawhar, Palghar, Mokhada, and Vikramgadh of Palghar district. This tribal art was originated in Maharashtra, where it is still practiced today.<br><br>
+</font>
+<font size = 6>
+<b>3.Pattachitra</b><br><br>
+<img src = "download31.jpg" height= 250 width = 200 border = 5><br>
+</font>
+<font size = 5>
+Pattachitra is a general term for traditional, cloth-based scroll painting,based in the eastern Indian state, Odisha.In the Sanskrit language, "Patta" literally means "cloth" and "Chitra" means "picture". Most of these paintings depict stories of Hindu deities.<br><br>
+</font>
+<font size = 6>
+<center><u>Sketches-Common Form of Art/Incomplete Art</u></center><br><br>
+</font>
+<font size = 6>
+<b>Sketches</b><br>
+</font>
+<font size = 5>
+<b>By Darsh</b>
+</font><br><br>
+<img src = "lmao.jpg" height= 250 width = 200 border = 5>        <img src = "21372306_1987620661482428_9078050796192399360_n.jpg" height= 250 width = 200 border = 5><br>
+<font size = 5>
+A sketch (ultimately from Greek schedios, "done extempore") is a rapidly executed freehand drawing that is not usually intended as a finished work.A sketch may serve a number of purposes: it might record something that the artist sees, it might record or develop an idea for later use or it might be used as a quick way of graphically demonstrating an image, idea or principle.<br><br>
+</font>
+<font size = 6>
+<center><b> <p style="border:3px; border-style:solid; border-color:#FF0000; padding: 1em;">“Art enables us to find ourselves and lose ourselves at the same time.”</p></b></center>
+</font>
+<font size = 6><b><u><center>By Apurva Chaurasia</center></U></B>
+</font>
+<font color = "maroon" size = 7>
+<marquee direction = left to right scrollamount = 10>
+<br>Thank you for viewing the webpage.
+</font>
+</marquee>
+<a href="allaboutart2.html"><button>Go To Examples of Art</button></a>
+<a href="allaboutart3.html"><button>Go To Famous Artists</button></a>
+</body>
+</html>                                         
